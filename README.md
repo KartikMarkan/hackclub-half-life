@@ -44,7 +44,7 @@ I did this by first downloading the KiCad software on my computer and connecting
 
 My diagrm from the Youtube Tutorial: 
 
-![This is first image](images/Hackrtt.png)
+![This is first image](Project1/images/Hackrtt.png)
 
 
 After watching the video, and checking voer everything, I decided to move on to the Starbie Tutorial from Half Life( Note: I am only using the tutorial to leanr before starting my actual PCB project). 
@@ -53,11 +53,11 @@ I started with the first step of getting the Seeed Studio XIAO ESP32-C3 connecte
 
 Here is a image of the schestamatic that follows the guide:
 
-![This is second image](images/5t.png)
+![This is second image](Project1/images/5t.png)
 
 Now I added my own two componets: Led, and resitor.I rewired everything to get this: 
 
-![This is third image](images/Okletsgo.png)
+![This is third image](Project1/images/Okletsgo.png)
 
 After checking again with ERC, I fixed all the warnings, and wiring problems with the help of some people in # Half Life Help 
 
@@ -74,11 +74,11 @@ I fixed those, and got 2 errors and 18 warnigns, just like the guide(so this mea
 
 Here is my final PCB design(withut routing wires):
 
-![This is fourth image](images/lol23232.png)
+![This is fourth image](Project1/images/lol23232.png)
 
 Finally, I did a 3d editor view, and got this; 
 
-![This is fifth image](images/3DEditor.png)
+![This is fifth image](Project1/images/3DEditor.png)
 
 After that, I went to Arduino IDE go start my coding. Most of my coding details are in my journal in Half Life.( i provided all the information about the code there)
       1. I added liabries
@@ -92,7 +92,7 @@ ALSO NOTE: For the money/costs, this is a screen shot for PCb design, since i di
 
 Pleaase choose direct global shipping, and this: 
 
-![This is sixth image](images/shippingproblem.png)
+![This is sixth image](Project1/images/shippingproblem.png)
 
 
 
