@@ -94,3 +94,5 @@ Pleaase choose direct global shipping, and this:
 
 ![This is sixth image](images/shippingproblem.png)
 
+
+
