@@ -1,0 +1,15 @@
+,,,,,
+Part,What it's for,Qty,Unit,Total,Vendor
+Seeed Studio XIAO ESP32-C3,Used for the microcontrolelr and controlling everything!,1,$4.99,$4.99,See Studio
+"0.96-inch I²C OLED, 128×64","To dispaly the text, and hummity around the air.",1,$1.09,$1.09,AliExpress
+MPU-6050 MPU6050,For Gyroscope,1,$1.09,$1.09,AliExpress
+DHT11 Sensor,Used to display temperature.,1,$1.09,$1.09,AliExpress
+PCB Part,"The main board, also idk how to upload this, so I put my files on github, and took a screenshot for the person buying it! The shipping should be through Gloabl direct which is $7.",1,$4.00,$4.00,JLCPCB
+Cherry MX-compatible switch,Used for pressing buttons,1,$1.09,$1.09,Aliexpress
+LED,To light up,1,$2.15,$2.15,Aliexpress
+1k Resistor,Give current,1,$0.95,$0.95,Aliexpress
+10k resitor,Giving current,1,$1.09,$1.09,Aliexpress
+Keycaps,For the buttons to press on (only need the 10 pack since cheapest),1,$1.09,$1.09,Aliexpress
+Parts subtotal,,,,$18.63,
+Tax & shipping,,,,$11.00,
+Total,,,,$29.63,
