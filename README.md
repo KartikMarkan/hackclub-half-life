@@ -5,7 +5,7 @@ NovaSense is my first ever PCB design project that I have ever made! I was so ex
 
 ## Hardware/Connections: 
 ### Components
-- **Microcontroller**: Arduino-compatible board (e.g., NodeMCU, D1 Mini)
+- **Microcontroller**: xiao esp32-c3
 - **Display**: SSD1306 128x64 OLED screen (I2C interface)
 - **Sensor**: DHT11 Temperature/Humidity sensor
 - **Buttons**: 2x momentary push buttons (SW1, SW2)
