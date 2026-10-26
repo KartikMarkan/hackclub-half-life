@@ -1,6 +1,6 @@
 
 # NovaSense!!!
-NovaSense is my first ever PCB design project that I have ever made! I was so exicted to make this project, and I can't wait to solder it! This ReadMe will explain the whole process I went through: 
+NovaSense is my first ever PCB design project that I have ever made! I was so exicted to make this project, and I can't wait to solder it! This ReadMe will explain the whole process I went through. Before we start, I want to explain how the project works: If you press one button, random text appears("Hello"), and if you press the other button, the temaptrue appears on the OLED screen. 
 
 
 ## Hardware/Connections: 
